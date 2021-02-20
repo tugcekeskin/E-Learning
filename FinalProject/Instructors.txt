@@ -1,0 +1,15 @@
+Reda Alhajj
+Programming For Engineers (C/C++);Data Science;
+63200
+Mehmet Kemal Ozdemir
+Probability and Random Variables;
+14250
+Hasan Fehmi Ates
+Data Structures;Python Programming for Engineers;
+13500
+Bahadir Ozturk
+Machine Learning;
+3100
+Burcu Karakaya
+Innovation and Entrepreneurship;
+1440

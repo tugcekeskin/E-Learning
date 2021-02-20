@@ -1,0 +1,28 @@
+Programming For Engineers (C/C++)
+1000
+English
+60
+Innovation and Entrepreneurship
+30
+Turkish
+48
+Probability and Random Variables
+75
+English
+190
+Python Programming for Engineers
+60
+English
+50
+Data Structures
+70
+English
+150
+Data Science
+80
+English
+40
+Machine Learning
+100
+English
+30
