@@ -1,5 +1,4 @@
 # E-Learning-Platform
-
 Programming for Engineers (C/C++) Course Term Project, Fall 2020-2021.
 
 Parallel to the development of technology, ways of obtaining information have changed.
