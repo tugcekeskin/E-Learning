@@ -1,7 +1,5 @@
 # E-Learning-Platform
 
-Programming for Engineers (C/C++) Course Term Project, Fall 2020-2021.
-
 Parallel to the development of technology, ways of obtaining information have changed.
 Technological tools that are always with individuals increase the use of e-learning tools because they made it very easy to access literal.
 The variety of courses, free or affordable courses, being accessible from the desired location, freedom in timing, and internationally recognized courses are other reasons for the tendency to this field.
